@@ -2,7 +2,7 @@
 
 int feature1(int arg)
 {
-    arg = 2;
+    arg = 3;
 
     return arg;
 }
