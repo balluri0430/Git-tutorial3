@@ -3,7 +3,7 @@
 int feature1(int arg)
 {
     arg = 3;
-    // Conflict 1
+    // Going to simulate 2 branches working on same file. This is feature1 branch. 
     return arg;
 }
 
