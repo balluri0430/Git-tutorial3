@@ -3,7 +3,7 @@
 int feature1(int arg)
 {
     arg = 3;
-    // Conflict 1
+    // feature3 branch on local computer 
     return arg;
 }
 
